@@ -17,4 +17,4 @@ React Calculator is a simple all in one calculator for the user.
 
 Please Note that more features will be added in future versions of React Calculator.
 
-[View the Calculator]("https://react-calculator-sjana7797.netlify.app/")
+[View the Calculator](https://react-calculator-sjana7797.netlify.app/)
